@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="24" cy="32" r="16" fill="hsl(178, 80%, 60%)" opacity="0.6"/><circle cx="40" cy="32" r="16" fill="hsl(178, 80%, 60%)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>전주 한옥마을 투어</title>
+  <rect width="64" height="64" rx="16" fill="hsl(197 53% 33%)"/>
+  <g transform="rotate(0 32 32)"><path d="M44 20a17 17 0 1 0 6 14" fill="none" stroke="hsl(197 24% 96%)" stroke-width="6" stroke-linecap="round"/><circle cx="44" cy="20" r="5" fill="hsl(309 68% 63%)"/></g>
+</svg>
